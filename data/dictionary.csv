@@ -1,0 +1,11 @@
+Key,Description
+Date,Numeric representation of the data
+SP500,Stock market index that measures the stock performance of 500 large companies 
+Dividend,Dividends paid
+Earnings,Earnings per share
+Consumer Price Index,Value of Consumer Price Index
+Long Interest Rate,Interest rates for the 10-year
+Real Price,Adjusted price
+Real Dividend,Adjusted dividend
+Real Earnings,Adjusted earnings
+PE10, Cyclically adjusted price-to-earnings ratio (CAPE)
